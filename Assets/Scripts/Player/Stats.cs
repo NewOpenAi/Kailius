@@ -14,7 +14,7 @@ public class Stats : MonoBehaviour {
     public GameObject camera;
     public GameObject stats;
 
-
+    // Public Sprite
     public Image hearts;
     public Sprite fullHeart;
     public Sprite heart190;
